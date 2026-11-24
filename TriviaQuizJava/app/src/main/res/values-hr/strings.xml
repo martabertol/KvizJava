@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trivia Kviz</string>
+    <string name="start_quiz">Pokreni kviz</string>
+    <string name="results">Rezultati</string>
+</resources>
